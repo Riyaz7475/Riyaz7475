@@ -1,5 +1,5 @@
 
-  Riyaz7475/`README.md`
+  Riyaz7475/README.md
 
   👋 Hi I'm @Riyaz
 - 👓 I'm interested in Full Stack 
